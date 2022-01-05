@@ -1,19 +1,16 @@
 <div align="center">
-  <img alt="Rodney Sostras" src="assets/img/rs-logo-256.jpg" />
+  <h1><a href="https://github.com/CamilaDosSantos">Camila</a></h1>
 </div>
-
-<br />
 
 <h2><img alt="" src="assets/img/hand-wave.gif" width='40' />&nbsp;Ola! Meu nome é Camila </h2>
 
-### �&nbsp;Sobre mim
+<h2>Sobre mim</h2>
 
 💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções front-end.\
 🎓 &nbsp;Atualmente, estou cursando o terçeiro ano do ensino medio,cusando informatica avançada, e buscando aprender novas linguagens de programação.\
 🌱 &nbsp;Estou no caminho certo para aprender mais sobre ReactJS & NodeJS.\
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo.\
 ✉️ &nbsp;Você pode me enviar um e-mail para tec.camiladossantos@gmail.com! Vou tentar responder assim que puder.\
-
 
 
 ### 🤝🏻 &nbsp;Onde me encontrar
